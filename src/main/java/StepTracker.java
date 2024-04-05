@@ -3,7 +3,7 @@ public class StepTracker
 {
   private int steps, require, day;
   private int count=0;
- public void stepTracker (int step){
+ public stepTracker (int step){
    require=step;
  }
  public int activeDays(){
