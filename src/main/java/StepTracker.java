@@ -9,7 +9,7 @@ public class StepTracker
  public int activeDays(){
   return count;
  }
- public void addDailysteps(int a){
+ public void addDailySteps(int a){
   if(a>=require){
    count++;
   }
