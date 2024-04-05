@@ -14,6 +14,7 @@ public class StepTracker
    count++;
   }
   steps+=a;
+   day++;
  }
  public double averageSteps(){
   return steps/(double) day;
