@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 public class StepTracker
 {
-  private int steps=0
-  private int require=0
+  private int steps=0;
+  private int require=0;
   private int day=0;
   private int count=0;
  public StepTracker (int step){
